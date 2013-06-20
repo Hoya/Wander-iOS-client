@@ -1,0 +1,118 @@
+/* 
+  Localizable.strings
+  YongoPal
+
+  Created by Jiho Kang on 7/31/11.
+  Copyright 2011 BetaStudios, Inc. All rights reserved.
+*/
+
+"createAccountTitle" = "Create a New Account";
+"loginTitle" = "Login";
+"matchListTitle" = "Local Guide List";
+"feedbackTitle" = "Feedback";
+"newMatchTitle" = "New Guide Available";
+"meetNewMatchTitle" = "Meet Your New Guide";
+"settingsTitle" = "Settings";
+"profileTitle" = "Profile";
+"findLocationTitle" = "Find your Location";
+"optionsTitle" = "Match Options";
+"notificationTitle" = "Notification Settings";
+"viewPhotoTitle" = "View Photo";
+"twitterLogin" = "Connect to Twitter";
+"twitterTitle" = "New Tweet";
+"foursquareTitle" = "Share on FourSquare";
+"foundProblemTitle" = "I Found a Problem";
+/*"quickMatchTitle" = "您已赢得‘快速配对’机会！";*/
+"quickMatchTitle" = "Request a New Guide";
+
+"missionCaption" = "Missions";
+"feedbackCaption" = "Help us make Wander better!";
+"archiveCaption" = "Archive";
+/*"quickMatchCaption" = "已厌倦长时间的等待？";*/
+"quickMatchCaption" = "";
+
+"whenWereYouBornLabel" = "When were you born?";
+"whereDoYouLiveLabel" = "Where do you live?";
+"cityCountry" = "City, Country";
+"monthDayYear" = "Month, Day, Year";
+"somethingAboutYouLabel" = "Oh, and share something about you...";
+"iLikeTurtlesLabel" = "I like turtles.";
+
+"generalHeader" = "General";
+"accountHeader" = "Account";
+"supportHeader" = "Support";
+
+/*"quickMatchHeader" = "You've Earned a Quick Match!";*/
+"quickMatchHeader" = "Request a New Guide";
+/*"pendingQuickMatchHeader" = "Waiting for Quick Match";*/
+"pendingQuickMatchHeader" = "You've Requested a New Guide";
+"noMatchAvailableHeader" = "You've Requested a New Guide";
+"matchRequestSentHeader" = "You've Requested a New Guide";
+"newGuideHeader" = "New Guide!";
+"currentGuideHeader" = "Current Guide";
+"waitingForMatchHeader" = "Waiting for Guide to Respond";
+"pastGuidesHeader" = "Past Guides";
+
+"todayHeader" = "Today";
+"olderHeader" = "Older";
+
+"noMatchAvailableText" = "搞定了！\n\n你的向导申请已收到，现在你可以退出了。\n\n如果我们找到适合你的本地向导就会通知你。";
+"wereSearchingTheGlobeText" = "每天，我们会从世界其他地方挑选一个人作为你的当地向导。\n\n如果需要查看你的新向导，我们会告诉你。";
+"reportBugEmailText" = "Please explain the problem and how you found it so that we can fix it.";
+
+"notificationSettingsMenu" = "Notification Settings";
+"matchAlertsMenu" = "Guide Alerts";
+"missionAlertsMenu" = "Mission Alerts";
+"messageAlertsMenu" = "Message Alerts";
+"editProfileMenu" = "Edit Profile";
+"troubleshootingButton" = "Troubleshooting";
+"reRegisterDeviceButton" = "Re-register Device";
+"restoreAppDataButton" = "Restore App Data";
+"logoutMenu" = "Logout";
+"aboutYongopalMenu" = "About Wander";
+"reportBugMenu" = "Bug Reports & Feedback";
+"facebookMenu" = "Wander on Facebook";
+"twitterMenu" = "Wander on Twitter";
+"termsMenu" = "Terms & Privacy Policy";
+"shareWithFriendsMenu" = "Share with friends";
+"matchOptionsMenu" = "Guide Match Options";
+"stopWanderingMenu" = "Stop Wandering";
+"enableQuickMatch" = "Enable Quick Match";
+
+"resendButton" = "Resend";
+"deleteButton" = "Delete";
+"choosePhotoButton" = "Choose Photo";
+"takePhotoButton" = "Take Photo";
+"okButton" = "OK";
+"cancelButton" = "Cancel";
+"translateMessageButton" = "翻译";
+"showOriginalMessageButton" = "Show Original";
+"copyToClipboardButton" = "Copy";
+"markCompleteButton" = "Mark Complete";
+"markIncompleteButton" = "Mark as Incomplete";
+"facebookShareButton" = "Share on Facebook";
+"twitterShareButton" = "Share on Twitter";
+"fourSquareShareButton" = "Share on FourSquare";
+"saveToCameraRollButton" = "Save to Camera Roll";
+"yesButton" = "Yes";
+"noButton" = "No";
+"maleButton" = "Male";
+"femaleButton" = "Female";
+"rateUsButton" = "为 Wander 评级";
+"rateUsLaterButton" = "稍后提醒我";
+"rateUsStopButton" = "不再显示";
+
+"networkErrorPrompt" = "Network Error";
+"checkNetworkTextPrompt" = "Check your WiFi or 3G connection";
+"isThisYourLocationPrompt" = "Is this your location?";
+"mustCheckAnswerPrompt" = "You must check an answer to send feedback";
+"forgotPasswordPrompt" = "Forgot your password?";
+"forgotPasswordTextPrompt" = "You can reset your password by providing your email address";
+"cantLeaveMatchPrompt" = "抱歉";
+"cantLeaveMatchTextPrompt" = "在您的导游回应前可能需要一些时间。如果您的导游一天内未回复，您可以离开当前配对。";
+"rateUsTitlePrompt" = "您玩得开心吗？";
+"rateUsTitleTextPrompt" = "希望您能花一点时间在 App Store 上为我们评级，这对我们来说非常重要，谢谢您的支持。 谢谢！";
+
+"font" = "HelveticaNeue-Light";
+"boldFont" = "HelveticaNeue-Bold";
+"extraBoldFont" = "HelveticaNeue-CondensedBold";

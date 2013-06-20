@@ -1,0 +1,118 @@
+/* 
+  Localizable.strings
+  YongoPal
+
+  Created by Jiho Kang on 7/31/11.
+  Copyright 2011 BetaStudios, Inc. All rights reserved.
+*/
+
+"createAccountTitle" = "Create a New Account";
+"loginTitle" = "Login";
+"matchListTitle" = "Local Guide List";
+"feedbackTitle" = "Feedback";
+"newMatchTitle" = "New Guide Available";
+"meetNewMatchTitle" = "Meet Your New Guide";
+"settingsTitle" = "Settings";
+"profileTitle" = "Profile";
+"findLocationTitle" = "Find your Location";
+"optionsTitle" = "Match Options";
+"notificationTitle" = "Notification Settings";
+"viewPhotoTitle" = "View Photo";
+"twitterLogin" = "Connect to Twitter";
+"twitterTitle" = "New Tweet";
+"foursquareTitle" = "Share on FourSquare";
+"foundProblemTitle" = "I Found a Problem";
+/*"quickMatchTitle" = "Você ganhou um ‘Quick Match’!";*/
+"quickMatchTitle" = "Request a New Guide";
+
+"missionCaption" = "Missions";
+"feedbackCaption" = "Help us make Wander better!";
+"archiveCaption" = "Archive";
+/*"quickMatchCaption" = "Ficando cansado de esperar?";*/
+"quickMatchCaption" = "";
+
+"whenWereYouBornLabel" = "When were you born?";
+"whereDoYouLiveLabel" = "Where do you live?";
+"cityCountry" = "City, Country";
+"monthDayYear" = "Month, Day, Year";
+"somethingAboutYouLabel" = "Oh, and share something about you...";
+"iLikeTurtlesLabel" = "I like turtles.";
+
+"generalHeader" = "General";
+"accountHeader" = "Account";
+"supportHeader" = "Support";
+
+/*"quickMatchHeader" = "You've Earned a Quick Match!";*/
+"quickMatchHeader" = "Request a New Guide";
+/*"pendingQuickMatchHeader" = "Waiting for Quick Match";*/
+"pendingQuickMatchHeader" = "You've Requested a New Guide";
+"noMatchAvailableHeader" = "You've Requested a New Guide";
+"matchRequestSentHeader" = "You've Requested a New Guide";
+"newGuideHeader" = "New Guide!";
+"currentGuideHeader" = "Current Guide";
+"waitingForMatchHeader" = "Waiting for Guide to Respond";
+"pastGuidesHeader" = "Past Guides";
+
+"todayHeader" = "Today";
+"olderHeader" = "Older";
+
+"noMatchAvailableText" = "Você terminou!\n\nSeu pedido de um guia foi recebido e agora você pode sair do app.\n\nNós lhe enviaremos uma notificação quando nós encontrarmos um grande guia local para você.";
+"wereSearchingTheGlobeText" = "Cada dia, lhe enviamos um guia local de algum outro lugar no mundo.\n\nIremos notificá-lo quando for hora de verificar o seu novo guia.";
+"reportBugEmailText" = "Please explain the problem and how you found it so that we can fix it.";
+
+"notificationSettingsMenu" = "Notification Settings";
+"matchAlertsMenu" = "Guide Alerts";
+"missionAlertsMenu" = "Mission Alerts";
+"messageAlertsMenu" = "Message Alerts";
+"editProfileMenu" = "Edit Profile";
+"troubleshootingButton" = "Troubleshooting";
+"reRegisterDeviceButton" = "Re-register Device";
+"restoreAppDataButton" = "Restore App Data";
+"logoutMenu" = "Logout";
+"aboutYongopalMenu" = "About Wander";
+"reportBugMenu" = "Bug Reports & Feedback";
+"facebookMenu" = "Wander on Facebook";
+"twitterMenu" = "Wander on Twitter";
+"termsMenu" = "Terms & Privacy Policy";
+"shareWithFriendsMenu" = "Share with friends";
+"matchOptionsMenu" = "Guide Match Options";
+"stopWanderingMenu" = "Stop Wandering";
+"enableQuickMatch" = "Enable Quick Match";
+
+"resendButton" = "Resend";
+"deleteButton" = "Delete";
+"choosePhotoButton" = "Choose Photo";
+"takePhotoButton" = "Take Photo";
+"okButton" = "OK";
+"cancelButton" = "Cancel";
+"translateMessageButton" = "Traduzir";
+"showOriginalMessageButton" = "Show Original";
+"copyToClipboardButton" = "Copy";
+"markCompleteButton" = "Mark Complete";
+"markIncompleteButton" = "Mark as Incomplete";
+"facebookShareButton" = "Share on Facebook";
+"twitterShareButton" = "Share on Twitter";
+"fourSquareShareButton" = "Share on FourSquare";
+"saveToCameraRollButton" = "Save to Camera Roll";
+"yesButton" = "Yes";
+"noButton" = "No";
+"maleButton" = "Male";
+"femaleButton" = "Female";
+"rateUsButton" = "Avaliar Wander";
+"rateUsLaterButton" = "Lembrar mais tarde";
+"rateUsStopButton" = "Não mostrar de novo";
+
+"networkErrorPrompt" = "Network Error";
+"checkNetworkTextPrompt" = "Check your WiFi or 3G connection";
+"isThisYourLocationPrompt" = "Is this your location?";
+"mustCheckAnswerPrompt" = "You must check an answer to send feedback";
+"forgotPasswordPrompt" = "Forgot your password?";
+"forgotPasswordTextPrompt" = "You can reset your password by providing your email address";
+"cantLeaveMatchPrompt" = "Desculpe";
+"cantLeaveMatchTextPrompt" = "Pode levar algum tempo até que seu guia responda. Você pode sair dessa combinação se o seu guia não responder depois de um dia.";
+"rateUsTitlePrompt" = "Você está se divertindo?";
+"rateUsTitleTextPrompt" = "Ficaríamos muito gratos se você pudesse tirar um minuto para nos avaliar na AppStore. Thank you!";
+
+"font" = "HelveticaNeue-Light";
+"boldFont" = "HelveticaNeue-Bold";
+"extraBoldFont" = "HelveticaNeue-CondensedBold";

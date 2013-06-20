@@ -1,0 +1,118 @@
+/* 
+  Localizable.strings
+  YongoPal
+
+  Created by Jiho Kang on 7/31/11.
+  Copyright 2011 BetaStudios, Inc. All rights reserved.
+*/
+
+"createAccountTitle" = "Create a New Account";
+"loginTitle" = "Login";
+"matchListTitle" = "Local Guide List";
+"feedbackTitle" = "Feedback";
+"newMatchTitle" = "New Guide Available";
+"meetNewMatchTitle" = "Meet Your New Guide";
+"settingsTitle" = "Settings";
+"profileTitle" = "Profile";
+"findLocationTitle" = "Find your Location";
+"optionsTitle" = "Match Options";
+"notificationTitle" = "Notification Settings";
+"viewPhotoTitle" = "View Photo";
+"twitterLogin" = "Connect to Twitter";
+"twitterTitle" = "New Tweet";
+"foursquareTitle" = "Share on FourSquare";
+"foundProblemTitle" = "I Found a Problem";
+/*"quickMatchTitle" = "「クイックマッチ」が手に入りました!";*/
+"quickMatchTitle" = "Request a New Guide";
+
+"missionCaption" = "Missions";
+"feedbackCaption" = "Help us make Wander better!";
+"archiveCaption" = "Archive";
+/*"quickMatchCaption" = "待ちきれませんか?";*/
+"quickMatchCaption" = "";
+
+"whenWereYouBornLabel" = "When were you born?";
+"whereDoYouLiveLabel" = "Where do you live?";
+"cityCountry" = "City, Country";
+"monthDayYear" = "Month, Day, Year";
+"somethingAboutYouLabel" = "Oh, and share something about you...";
+"iLikeTurtlesLabel" = "I like turtles.";
+
+"generalHeader" = "General";
+"accountHeader" = "Account";
+"supportHeader" = "Support";
+
+/*"quickMatchHeader" = "You've Earned a Quick Match!";*/
+"quickMatchHeader" = "Request a New Guide";
+/*"pendingQuickMatchHeader" = "Waiting for Quick Match";*/
+"pendingQuickMatchHeader" = "You've Requested a New Guide";
+"noMatchAvailableHeader" = "You've Requested a New Guide";
+"matchRequestSentHeader" = "You've Requested a New Guide";
+"newGuideHeader" = "New Guide!";
+"currentGuideHeader" = "Current Guide";
+"waitingForMatchHeader" = "Waiting for Guide to Respond";
+"pastGuidesHeader" = "Past Guides";
+
+"todayHeader" = "Today";
+"olderHeader" = "Older";
+
+"noMatchAvailableText" = "終了しました!\n\nガイドの依頼を受け付けましたので、アプリケーションを終了していただけます。\n\n素晴らしいローカルガイドがありましたら、ご連絡します。";
+"wereSearchingTheGlobeText" = "毎日、世界のどこからかローカルガイド1つを送信します。\n\n新しいガイドをチェックできるようになりましたら、お知らせします。";
+"reportBugEmailText" = "Please explain the problem and how you found it so that we can fix it.";
+
+"notificationSettingsMenu" = "Notification Settings";
+"matchAlertsMenu" = "Guide Alerts";
+"missionAlertsMenu" = "Mission Alerts";
+"messageAlertsMenu" = "Message Alerts";
+"editProfileMenu" = "Edit Profile";
+"troubleshootingButton" = "Troubleshooting";
+"reRegisterDeviceButton" = "Re-register Device";
+"restoreAppDataButton" = "Restore App Data";
+"logoutMenu" = "Logout";
+"aboutYongopalMenu" = "About Wander";
+"reportBugMenu" = "Bug Reports & Feedback";
+"facebookMenu" = "Wander on Facebook";
+"twitterMenu" = "Wander on Twitter";
+"termsMenu" = "Terms & Privacy Policy";
+"shareWithFriendsMenu" = "Share with friends";
+"matchOptionsMenu" = "Guide Match Options";
+"stopWanderingMenu" = "Stop Wandering";
+"enableQuickMatch" = "Enable Quick Match";
+
+"resendButton" = "Resend";
+"deleteButton" = "Delete";
+"choosePhotoButton" = "Choose Photo";
+"takePhotoButton" = "Take Photo";
+"okButton" = "OK";
+"cancelButton" = "Cancel";
+"translateMessageButton" = "訳す";
+"showOriginalMessageButton" = "Show Original";
+"copyToClipboardButton" = "Copy";
+"markCompleteButton" = "Mark Complete";
+"markIncompleteButton" = "Mark as Incomplete";
+"facebookShareButton" = "Share on Facebook";
+"twitterShareButton" = "Share on Twitter";
+"fourSquareShareButton" = "Share on FourSquare";
+"saveToCameraRollButton" = "Save to Camera Roll";
+"yesButton" = "Yes";
+"noButton" = "No";
+"maleButton" = "Male";
+"femaleButton" = "Female";
+"rateUsButton" = "Wanderを評価する";
+"rateUsLaterButton" = "後で通知する";
+"rateUsStopButton" = "今後表示しない";
+
+"networkErrorPrompt" = "Network Error";
+"checkNetworkTextPrompt" = "Check your WiFi or 3G connection";
+"isThisYourLocationPrompt" = "Is this your location?";
+"mustCheckAnswerPrompt" = "You must check an answer to send feedback";
+"forgotPasswordPrompt" = "Forgot your password?";
+"forgotPasswordTextPrompt" = "You can reset your password by providing your email address";
+"cantLeaveMatchPrompt" = "申し訳ございません";
+"cantLeaveMatchTextPrompt" = "ガイドが返答するまでに時間がかかることがございます。選択したガイドが1日以内に返答をしない場合、このマッチングを終了することができます。";
+"rateUsTitlePrompt" = "楽しんで頂けてますか？";
+"rateUsTitleTextPrompt" = "AppStoreでの本アプリ評価のため、数分ご協力頂けると大変助かります。 ありがとう！";
+
+"font" = "HelveticaNeue-Light";
+"boldFont" = "HelveticaNeue-Bold";
+"extraBoldFont" = "HelveticaNeue-CondensedBold";
